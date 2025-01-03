@@ -41,7 +41,7 @@ def guess(update: Update, context: CallbackContext):
 # Main function to run the bot
 def main():
     # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-    updater = Updater("YOUR_BOT_TOKEN")
+    updater = Updater("7842394801:AAF0o4bN_4rsbHjfd2MFxYezQPb9NSrDhm4")
     dispatcher = updater.dispatcher
 
     # Command handlers
